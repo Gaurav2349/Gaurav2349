@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Gaurav Nayak 👋
 
-<!--
-**Gaurav2349/Gaurav2349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Graduate (First Class Distinction) | PG-DITISS
+💻 Frontend Developer with DevOps Fundamentals
+🚀 Currently building: SkillHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### 💻 Frontend
+
+* HTML, CSS, JavaScript
+* React.js, Tailwind CSS
+
+### ⚙️ Backend & Tools
+
+* Firebase
+* Git & GitHub
+
+### 🐧 DevOps & Systems
+
+* Linux (CLI, basic commands)
+* Docker (containers, images)
+* Kubernetes (basic concepts)
+
+---
+
+## 📌 Featured Projects
+
+* 🔹 SkillHub (in progress)
+* 🔹 React Todo App
+* 🔹 Portfolio Website
+
+---
+
+## 📫 Contact
+
+* nayakgaurav0508@gmail.com
